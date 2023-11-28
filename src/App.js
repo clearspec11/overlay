@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import runk from './IMG/Runk.webp';
+//import logo from './logo.svg';
+//import runk from './IMG/Runk.webp';
 import React from 'react';
 import ImageSlider from './ImageSlider';
 import './App.css';
