@@ -20,7 +20,7 @@ const App = () => {
 
   return (
       <div className="App">
-        <ImageSlider images={images} interval={3} />
+        <ImageSlider images={images} interval={10} />
       </div>
   );
 };
